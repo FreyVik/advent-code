@@ -9,3 +9,6 @@
     * ✔ Automatically clear mock calls, instances, contexts and results before every test? … yes
 1. In pacage.json/scripts => "test:watch": "jest --watchAll"
 1. npm run test:watch -t RockPaperScissors: to run only RockPaperScissors.test.js
+
+### Private leaderboard
+2694910-a004cc67
