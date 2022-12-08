@@ -8,3 +8,4 @@
     * ✔ Which provider should be used to instrument code for coverage? › v8
     * ✔ Automatically clear mock calls, instances, contexts and results before every test? … yes
 1. In pacage.json/scripts => "test:watch": "jest --watchAll"
+1. npm run test:watch -t RockPaperScissors: to run only RockPaperScissors.test.js
